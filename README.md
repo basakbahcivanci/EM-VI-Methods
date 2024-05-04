@@ -11,6 +11,6 @@ The Expectation-Maximization algorithm is a statistical tool for maximum likelih
 ### Variational Inference
 Variational Inference is an inference technique especially used in Bayesian statistics that approximates probability densities through optimization. In this project, VI is used to:
 - Efficiently approximate posterior distributions
-- Infer hidden variables by approximating the posterior distribution of latent (hidden) variables
+- Infer hidden variables (by approximating the posterior distribution of latent (hidden) variables)
 - Identify clusters in the data
 
