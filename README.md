@@ -1,6 +1,6 @@
 # EM-VI-Methods
 
-This repository focuses on the implementation and application of statistical methods. Specifically, it contains code and resources for the application of the Expectation-Maximization (EM) algorithm and Variational Inference (VI).
+This repository is for the implementation and application of statistical methods. Specifically, it contains code and resources for the application of the Expectation-Maximization (EM) algorithm and Variational Inference (VI).
 
 ### EM Algorithm
 The Expectation-Maximization algorithm is a statistical tool for maximum likelihood estimation in latent variable models. In this project, the EM algorithm is applied to:
